@@ -1,0 +1,53 @@
+#tartalom {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #d2691e;
+    padding: 10px;
+}
+h1 {
+    border-bottom: 2px solid #a52a2a;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    display: inline-block;
+    border-right: 2px solid #a52a2a;
+    padding: 6px;
+    min-width: 50px;
+    color: white;
+}
+.hasab {
+    float: left;
+    width: 440px;
+    margin: 0px 20px;
+}
+h2 {
+    width: 96%;
+    background-color: #cd853f;
+    font-style: italic;
+    padding: 5px;
+}
+p {
+    text-align: justify;
+}
+.hasab > img {
+    width: 100px;
+    border: 2px solid #a52a2a;
+    float: left;
+    margin: 7px;
+}
+
+footer p {
+    margin: 0px;
+    
+}
+
+.vissza {
+    clear:both;
+}
+.forras {
+    border-top: 2px solid #a52a2a;
+}
